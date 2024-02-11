@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-S926U1,1707663721288,2024-02-11_15-02-01,America/New_York,android,1.28,37c29426-27fd-4ad3-a356-42ce4313d67e,Accelerometer|Gravity|Gyroscope|Orientation|Location|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|0||10|10|10
